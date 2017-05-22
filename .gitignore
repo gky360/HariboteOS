@@ -72,6 +72,15 @@ tags
 
 ### Others
 
+*.bin
+*.img
+.DS_Store
 !Q.app
 trash/
+z_tools/*
+!z_tools/haribote/
+!z_tools/qemu/
+z_tools/qemu/Q.app/*
+
+
 
