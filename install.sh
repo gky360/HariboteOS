@@ -1,6 +1,6 @@
 #!/bin/sh
 
-readonly HOS="${HOME}/HariboteOS"
+readonly HOS="${HOME}/git/study/HariboteOS"
 readonly PRO="${HOS}/projects"
 readonly TOL="${HOS}/tolset"
 readonly ZTO="${HOS}/z_tools"
